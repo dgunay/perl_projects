@@ -1,0 +1,7 @@
+Implement:
+
+- Fizzbuzz
+- JSON decoding into complex DS
+- recursive file search
+- basic file i/o
+- CSV file i/o
